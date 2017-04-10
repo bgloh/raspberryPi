@@ -1,10 +1,5 @@
-# node-red-contrib-wago
-[Node-RED](http://nodered.org/) nodes to easily map WAGO 750-49X Power Measurement Modules. 
-
-A Bunch Of Text
-
-##Example
-![Example](http://i.imgur.com/m2s6JRl.png)
+# node-red-contrib-demo
+how to make a custom node-red node.
 
 ##Version history
 * 0.0.1	First release
